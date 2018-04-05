@@ -3,7 +3,8 @@
 # Create a vector of 100 employees ("Employee 1", "Employee 2", ... "Employee 100")
 # Hint: use the `paste()` function and vector recycling to add a number to the word
 # "Employee"
-
+x <- 1:100
+paste("Employee" x)
 
 # Create a vector of 100 random salaries for the year 2017
 # Use the `runif()` function to pick random numbers between 40000 and 50000
